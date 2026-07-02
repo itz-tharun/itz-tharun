@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0d181c47-e4f0-40c9-887a-c8469ddca9d9" width="100%" />
+<img src="Assets/Banner.png" width="100%" />
 
 # THARUN PREMKUMAR
 
