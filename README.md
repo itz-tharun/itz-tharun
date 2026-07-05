@@ -26,75 +26,97 @@ Robotics • Autonomous Systems • Computer Vision • Embedded Systems • Ind
 
 ---
 
-# 🧠 Engineering Philosophy
+# Engineering Philosophy
 
-I enjoy engineering systems that bridge perception, computation, and actuation to solve meaningful real-world problems. My work combines robotics, embedded systems, computer vision, and industrial automation to develop intelligent systems capable of reliably interacting with the physical world.
+I believe engineering begins by understanding **where a system fails**, not by selecting the technologies used to solve it.
 
-Rather than viewing projects as isolated software or hardware implementations, I approach engineering from a systems perspective—understanding how sensing, decision-making, control, and deployment come together to solve practical challenges.
+Whether the challenge involves industrial automation, autonomous robotics, or intelligent sensing, I first aim to identify the highest-impact bottleneck before designing a complete solution. Depending on the problem, that solution may combine computer vision, embedded systems, robotics, control systems, or automation—but the technology is always driven by the problem, never the other way around.
 
----
-
-# 🔬 Research Interests
-
-<div align="center">
-
-| Robotics | Autonomous Systems | Computer Vision |
-|:---------:|:------------------:|:---------------:|
-| Intelligent Sensing | Embedded Systems | Industrial Automation |
-
-</div>
+This systems-first mindset has shaped my work across research, international internships, and real-world engineering projects, and continues to guide how I approach complex engineering challenges.
 
 ---
 
-# 🚀 Current Engineering Focus
+# Research Interests
 
-- 📄 Preparing research publications in computer vision and intelligent systems
-- 🤖 Autonomous mobile robotics and navigation
-- 👁 Vision-guided industrial automation
-- ⚙ Embedded systems for real-world deployment
-- 🎓 Preparing for Master's studies in Robotics & Intelligent Systems
+- Robotics & Autonomous Systems
+- Computer Vision & Intelligent Sensing
+- Embedded Systems & Edge Computing
+- Industrial Automation
+- Intelligent Physical Systems
 
 ---
 
-# 🛠 Engineering Portfolio
+# Featured Engineering Systems
 
-> 🚧 **This portfolio is currently being reorganized.**
+I'm currently restructuring my repositories to better document the engineering decisions behind each project.
 
-Projects are being documented with an emphasis on:
+Rather than simply showcasing completed work, each repository is being redesigned as a technical case study covering:
 
 - Problem Definition
 - System Architecture
-- Engineering Decisions
-- Implementation
+- Design Decisions
+- Hardware & Software Integration
 - Experimental Results
-- Documentation
+- Engineering Challenges
+- Lessons Learned
+- Future Improvements
 
-Featured engineering systems will appear here soon.
+The featured engineering systems below will serve as the primary showcase of my work in robotics, embedded systems, computer vision, and industrial automation.
+---
+
+# Publications
+
+Current research includes:
+
+- **Computer Vision for Intelligent Waste Classification** *(In Preparation)*
+- **Efficient Vision Algorithms for Industrial Automation** *(In Preparation)*
+
+My research primarily explores the intersection of computer vision, intelligent sensing, and industrial automation, with an emphasis on practical deployment under real-world constraints.
 
 ---
 
-# 📄 Publications
+# Professional Journey
 
-Currently working on research in:
+```mermaid
+flowchart TD
 
-- Computer Vision for Intelligent Waste Classification *(In Preparation)*
-- Efficient Vision Algorithms for Industrial Automation *(In Preparation)*
+A["🎓 Academic Foundation<br/><b>Chennai Institute of Technology</b>"]
+
+B["🇹🇼 International Research<br/><b>TEEP Taiwan</b>"]
+
+C["⚙ Engineering Innovation<br/><b>PICABORD Technologies</b>"]
+
+D["🤖 Industrial Deployment<br/><b>FLO Mobility</b>"]
+
+E["📄 Current Focus<br/><b>Research & Graduate Studies</b>"]
+
+A --> B
+B --> C
+C --> D
+D --> E
+```
 
 ---
 
-# 🌍 Professional Journey
 
-```text
-Chennai Institute of Technology
-            │
-            ▼
-TEEP Taiwan Research Internship
-            │
-            ▼
-PICABORD Technologies
-            │
-            ▼
-FLO Mobility
-            │
-            ▼
-Current Research
+# ⚙ Engineering Toolkit
+
+### Programming
+
+Python • C • C++ • Embedded C
+
+### Robotics
+
+ROS 2 • Motion Planning • Gazebo • Control Systems
+
+### Computer Vision
+
+OpenCV • Image Processing • YOLO • Intelligent Sensing
+
+### Embedded Systems
+
+Arduino • ESP32 • Raspberry Pi • Microcontrollers
+
+### Engineering
+
+Linux • Git • MATLAB
