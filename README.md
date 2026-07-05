@@ -6,9 +6,8 @@
 
 ### Building Intelligent Systems for the Physical World
 
-Robotics • Autonomous Systems • Computer Vision • Embedded Systems • Industrial Automation
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F51FF&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Robotics+%E2%80%A2+Autonomous+Systems;Industrial+Automation+%E2%80%A2+Embedded+Systems;Computer+Vision" alt="Typing SVG" /></a>
 
-<br>
 
 <a href="https://www.linkedin.com/in/tharun-premkumar-a48204291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -80,15 +79,15 @@ My research primarily explores the intersection of computer vision, intelligent 
 ```mermaid
 flowchart TD
 
-A["🎓 Academic Foundation<br/><b>Chennai Institute of Technology</b>"]
+A[" Academic Foundation<br/><b>Chennai Institute of Technology</b>"]
 
-B["🇹🇼 International Research<br/><b>TEEP Taiwan</b>"]
+B[" International Research<br/><b>TEEP Taiwan</b>"]
 
-C["⚙ Engineering Innovation<br/><b>PICABORD Technologies</b>"]
+C[" Engineering Innovation<br/><b>PICABORD Technologies</b>"]
 
-D["🤖 Industrial Deployment<br/><b>FLO Mobility</b>"]
+D[" Industrial Deployment<br/><b>FLO Mobility</b>"]
 
-E["📄 Current Focus<br/><b>Research & Graduate Studies</b>"]
+E[" Current Focus<br/><b>Research & Graduate Studies</b>"]
 
 A --> B
 B --> C
@@ -120,3 +119,10 @@ Arduino • ESP32 • Raspberry Pi • Microcontrollers
 ### Engineering
 
 Linux • Git • MATLAB
+
+<br />
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  </a>
+</p>
