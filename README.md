@@ -33,6 +33,7 @@ Whether the challenge involves industrial automation, autonomous robotics, or in
 
 This systems-first mindset has shaped my work across research, international internships, and real-world engineering projects, and continues to guide how I approach complex engineering challenges.
 
+![Engineering Philosophy](Assets/engineering_philosophy.svg)
 ---
 
 # Research Interests
