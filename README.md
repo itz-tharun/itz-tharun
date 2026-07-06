@@ -77,7 +77,11 @@ My research primarily explores the intersection of computer vision, intelligent 
 
 # Professional Journey
 
-![Timeline Journey](Assets/Timeline_journey.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Assets/timeline_journey_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/timeline_journey_light.svg">
+  <img alt="Career timeline" src="assets/timeline_journey_light.svg">
+</picture>
 
 ---
 
