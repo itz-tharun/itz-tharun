@@ -77,24 +77,7 @@ My research primarily explores the intersection of computer vision, intelligent 
 
 # Professional Journey
 
-```mermaid
-flowchart TD
-
-A[" Academic Foundation<br/><b>Chennai Institute of Technology</b>"]
-
-B[" International Research<br/><b>TEEP Taiwan</b>"]
-
-C[" Engineering Innovation<br/><b>PICABORD Technologies</b>"]
-
-D[" Industrial Deployment<br/><b>FLO Mobility</b>"]
-
-E[" Current Focus<br/><b>Research & Graduate Studies</b>"]
-
-A --> B
-B --> C
-C --> D
-D --> E
-```
+![Timeline Journey](Assets/Timeline_journey.svg)
 
 ---
 
