@@ -29,22 +29,14 @@
 
 I believe engineering begins by understanding **where a system fails**, not by selecting the technologies used to solve it.
 
-Whether the challenge involves industrial automation, autonomous robotics, or intelligent sensing, I first aim to identify the highest-impact bottleneck before designing a complete solution. Depending on the problem, that solution may combine computer vision, embedded systems, robotics, control systems, or automation—but the technology is always driven by the problem, never the other way around.
+Rather than optimizing individual components, I first identify the highest-impact bottleneck before designing a complete solution. This systems-first mindset shapes how I approach robotics, embedded systems, computer vision, and industrial automation.
 
-This systems-first mindset has shaped my work across research, international internships, and real-world engineering projects, and continues to guide how I approach complex engineering challenges.
 
 ![Engineering Philosophy](Assets/engineering_philosophy.svg)
----
 
-# Research Interests
-
-- Robotics & Autonomous Systems
-- Computer Vision & Intelligent Sensing
-- Embedded Systems & Edge Computing
-- Industrial Automation
-- Intelligent Physical Systems
 
 ---
+
 
 # Featured Engineering Systems
 
@@ -85,28 +77,41 @@ My research primarily explores the intersection of computer vision, intelligent 
 
 ---
 
-
-# ⚙ Engineering Toolkit
+# Engineering Toolkit
 
 ### Programming
 
-Python • C • C++ • Embedded C
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-555555?style=for-the-badge)
 
-### Robotics
+### Robotics & Simulation
 
-ROS 2 • Motion Planning • Gazebo • Control Systems
+![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-483D8B?style=for-the-badge)
+![RViz](https://img.shields.io/badge/RViz-0A84FF?style=for-the-badge)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-2E8B57?style=for-the-badge)
 
 ### Computer Vision
 
-OpenCV • Image Processing • YOLO • Intelligent Sensing
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-0284C7?style=for-the-badge)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-059669?style=for-the-badge)
 
 ### Embedded Systems
 
-Arduino • ESP32 • Raspberry Pi • Microcontrollers
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6B7280?style=for-the-badge)
 
-### Engineering
+### Engineering Tools
 
-Linux • Git • MATLAB
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 
 <br />
 <p align="center">
