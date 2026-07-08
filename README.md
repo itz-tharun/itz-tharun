@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="Assets/Banner.png" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Assets/dark/Banner_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/light/Banner_light.png">
+  <img alt="Banner" src="Assets/light/Banner_light.png" width="100%">
+</picture>
 
 # THARUN PREMKUMAR
 
@@ -40,20 +44,24 @@ Rather than optimizing individual components, I first identify the highest-impac
 
 # Featured Engineering Systems
 
-I'm currently restructuring my repositories to better document the engineering decisions behind each project.
+<a href="https://github.com/itz-tharun/Automated-Arm-Based-textile-sorter">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/dark/Card1_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="Assets/light/Card1_light.svg">
+    <img src="Assets/light/Card1_light.svg" width="48%" align="left">
+  </picture>
+</a>
 
-Rather than simply showcasing completed work, each repository is being redesigned as a technical case study covering:
+<a href="https://github.com/itz-tharun/Automated-Button-Cutter-with-Yolo-detection">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/dark/Card2_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="Assets/light/Card2_light.svg">
+    <img src="Assets/light/Card2_light.svg" width="48%" align="right">
+  </picture>
+</a>
 
-- Problem Definition
-- System Architecture
-- Design Decisions
-- Hardware & Software Integration
-- Experimental Results
-- Engineering Challenges
-- Lessons Learned
-- Future Improvements
+<br clear="both">
 
-The featured engineering systems below will serve as the primary showcase of my work in robotics, embedded systems, computer vision, and industrial automation.
 ---
 
 # Publications
@@ -70,8 +78,8 @@ My research primarily explores the intersection of computer vision, intelligent 
 # Professional Journey
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Assets/timeline_journey_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="Assets/timeline_journey_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Assets/dark/timeline_journey_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/light/timeline_journey_light.svg">
   <img alt="Career timeline" src="assets/timeline_journey_light.svg">
 </picture>
 
