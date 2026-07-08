@@ -48,7 +48,7 @@ Rather than optimizing individual components, I first identify the highest-impac
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Assets/dark/Card1_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="Assets/light/Card1_light.svg">
-    <img src="Assets/light/Card1_light.svg" width="48%" align="left">
+    <img src="Assets/light/Card1_light.svg" width="46%" align="left">
   </picture>
 </a>
 
@@ -56,7 +56,7 @@ Rather than optimizing individual components, I first identify the highest-impac
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Assets/dark/Card2_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="Assets/light/Card2_light.svg">
-    <img src="Assets/light/Card2_light.svg" width="48%" align="right">
+    <img src="Assets/light/Card2_light.svg" width="46%" align="right">
   </picture>
 </a>
 
